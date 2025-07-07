@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+python-multipart
+sap-ai-sdk-gen[all]
+openai
+python-dotenv
